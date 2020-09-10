@@ -30,12 +30,12 @@ const About = () => {
                 Hi there! I am <strong>&nbsp;Lee Lam</strong>
                 <br />A passionate programmer born and brought up in Viet Nam. I
                 am a Full Stack Web Developer with React.js, Express.js,
-                elasticsearch, Node.js, and MongoDb as my tech stack.
+                Elasticsearch, Node.js, and MongoDb as my tech stack.
                 <br />
                 2016-2020: I studied at 'University Of Information Technology
                 VNU-HCM'
                 <br />
-                2020: Backend dev nodejs, MongoDb at Asset Viet Nam
+                2020: Backend devevelopment at Asset Viet Nam
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
@@ -48,7 +48,7 @@ const About = () => {
                   <div>
                     <a
                       // cv
-                      href="https://drive.google.com/file/d/148UcaqxF0pjzIRi22zRYywO7sMJ5y64b/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1XxfDaZUF-JethLvNC4qru2wZfsCADKka/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
