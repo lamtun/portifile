@@ -32,10 +32,10 @@ const About = () => {
                 am a Full Stack Web Developer with React.js, Express.js,
                 Elasticsearch, Node.js, and MongoDb as my tech stack.
                 <br />
-                2016-2020: I studied at 'University Of Information Technology
+                2016 - 2020: I studied at 'University Of Information Technology
                 VNU-HCM'
                 <br />
-                2020: Backend devevelopment at Asset Viet Nam
+                2019 - 2020: Backend devevelopment at Asset Viet Nam
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
